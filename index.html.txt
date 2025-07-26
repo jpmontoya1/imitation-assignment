@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Imitation Assignment</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <h1>Imitation Assignment</h1>
+
+  <section class="project penguins">
+    <h2>Penguins</h2>
+    <div class="image-container">
+      <img src="penguins.png" alt="Penguins" />
+    </div>
+  </section>
+
+  <section class="project football">
+    <h2>Football Tic-Tac-Toe</h2>
+    <div class="image-container">
+      <img src="football-field.jpg" alt="Football field" />
+      <img src="tic-tac-toe.png" alt="Tic Tac Toe" class="overlay" />
+    </div>
+  </section>
+
+  <section class="project dino">
+    <h2>Dinosaur</h2>
+    <div class="image-container">
+      <img src="dino.png" alt="Dinosaur" />
+    </div>
+  </section>
+
+  <section class="project seagull">
+    <h2>Seagull</h2>
+    <div class="image-container">
+      <img src="seagull.jpg" alt="Seagull" />
+    </div>
+  </section>
+
+  <section class="project butterfly">
+    <h2>Butterfly</h2>
+    <div class="image-container">
+      <img src="butterfly.jpg" alt="Butterfly" />
+    </div>
+  </section>
+
+  <section class="project presenting">
+    <h2>Presenting</h2>
+    <div class="image-container">
+      <img src="presenting.jpg" alt="Presenting" />
+      <div class="text-overlay">Presenting</div>
+    </div>
+  </section>
+</body>
+</html>
